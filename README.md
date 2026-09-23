@@ -1,11 +1,10 @@
 # Online Learning Engagement and Student Performance Analysis
 
 An interactive data analytics solution built with **Microsoft Power BI**, **Power Query**, **DAX**, and **SQL** to evaluate how digital behavior, prior education, and demographics influence academic outcomes and student retention.
+Project Overview:
+Online learning platforms record massive volumes of student interaction data, yet institutions often struggle to turn these logs into proactive student support. This project builds a complete business intelligence framework to track 32,593 raw student records across 14 data attributes. The final data pipeline delivers a multi-page interactive dashboard optimizing core student support metrics and identifying at-risk cohorts early.
 
-## 📌 Project Overview
-Online learning platforms record massive volumes of student interaction data, yet institutions often struggle to turn these logs into proactive student support. This project builds a complete business intelligence framework to track **32,593 raw student records** across 14 data attributes. The final data pipeline delivers a multi-page interactive dashboard optimizing core student support metrics and identifying at-risk cohorts early.
-
-* **Domain:** Education Analytics / E-Learning
+Domain:** Education Analytics / E-Learning
 * **Analysis Population:** 22,422 students (post-cleaning and filtration)
 * **Tools Used:** Microsoft Power BI Desktop, Power Query, DAX, SQL Server
 
